@@ -1,0 +1,40 @@
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+                                                           _     _       _        
+                                                          | |   (_)_ __ | | _____ 
+                                                          | |   | | '_ \| |/ / __|
+                                                          | |___| | | | |   <\__ \
+                                                          |_____|_|_| |_|_|\_\___/
+
+
+
+                              - -T-hese slides: +https://github.com/lukexor/vimtro+
+
+                              - -M-y configuration: +https://github.com/lukexor/config+
+
+                              - *Neovim*: +https://neovim.io/+
+
+                                + Top Plugins:
+
+                                  * Buffers as tabs: +https://github.com/ap/vim-buftabline+
+                                  * Helps learn key combinations: +https://github.com/folke/which-key.nvim+
+                                  * Auto-close HTML tags: +https://github.com/windwp/nvim-ts-autotag+
+                                  * Visually move blocks of text: +https://github.com/zirrostig/vim-schlepp+
+                                  * File system explorer: +https://github.com/preservim/nerdtree+
+                                  * Statusline: +https://github.com/nvim-lualine/lualine.nvim+
+                                  * LSP client setup: +https://github.com/neovim/nvim-lspconfig+
+                                  * Fuzzy Finder: +https://github.com/nvim-telescope/telescope.nvim+
+
+                                + Top Plugin Authors:
+
+                                  * +https://github.com/tpope+
+                                  * +https://github.com/hrsh7th+
+                                  * +https://github.com/junegunn+
+
+
+
+
+                                                                                                                                      13
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-

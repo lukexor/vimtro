@@ -1,0 +1,40 @@
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+
+                                                    __     ___           _             
+                                                    \ \   / (_)_ __ ___ | |_ _ __ ___  
+                                                     \ \ / /| | '_ ` _ \| __| '__/ _ \ 
+                                                      \ V / | | | | | | | |_| | | (_) |
+                                                       \_/  |_|_| |_| |_|\__|_|  \___/ 
+
+
+
+
+                              - -I-nstall *Neovim*: +https://neovim.io/+
+
+                                + macOS: `brew install neovim`
+
+                                + Ubuntu: `sudo apt install nvim`
+
+                                + Arch Linux: `sudo pacman -S neovim`
+
+                                + CentOS 8 / RHEL 8:
+                                  `yum install -y https://dl.fedoraproject.org/pub/epel/epel-release-latest-8.noarch.rpm`
+                                  `yum install -y neovim python3-neovim``
+
+                                + Windows: `winget install Neovim.Neovim` or `choco install neovim`
+
+
+
+
+
+
+
+
+
+
+
+                                                                                                                                      12
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
