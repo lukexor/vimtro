@@ -18,13 +18,13 @@
 
                               - -O-nce you know a few commands, you can combine them in powerful ways
 
-                                + `d3w` to *delete 3 words* 
+                                + `d3w` to -d-elete -3- -w-ords
 
-                                + `ci(` to *change inside parentheses* 
+                                + `ci(` to -c-hange -i-nside parentheses -(-
 
-                                + `yt.` to *yank til before the next .*
+                                + `yt.` to -y-ank -t-il before the next -.- 
 
-                                + ~ma10Gd5j`a~
+                                + ~ma10Gd5j'a~
 
                                   * `ma` to -M-ark current line with label -a-
 
@@ -32,7 +32,7 @@
 
                                   * `d5j` to -D-elete -5- lines down (-j-)
 
-                                  * ~`a~ to jump back to mark `a`
+                                  * ~'a~ to jump back to mark `a`
 
 
 

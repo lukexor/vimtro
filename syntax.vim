@@ -13,7 +13,7 @@ syn match Statement "`[a-zA-Z0-9]\+`" contains=presentBacktick
 syn match String "\*[^\*]\{3,}\*" contains=presentStar
 syn match String "\*[a-zA-Z0-9]\+\*" contains=presentStar
 syn match Question "-[^-:]\{3,}-" contains=presentDash
-syn match Question "-[a-zA-Z0-9]\+-" contains=presentDash
+syn match Question "-[a-zA-Z0-9.\(]\+-" contains=presentDash
 
 syn match presentTilde contained "\~" conceal
 syn match presentPlus contained "+" conceal

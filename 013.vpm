@@ -16,7 +16,7 @@
 
                               - *Neovim*: +https://neovim.io/+
 
-                                + Top Plugins:
+                                + -T-op Plugins:
 
                                   * Buffers as tabs: +https://github.com/ap/vim-buftabline+
                                   * Helps learn key combinations: +https://github.com/folke/which-key.nvim+
@@ -27,7 +27,7 @@
                                   * LSP client setup: +https://github.com/neovim/nvim-lspconfig+
                                   * Fuzzy Finder: +https://github.com/nvim-telescope/telescope.nvim+
 
-                                + Top Plugin Authors:
+                                + -T-op Plugin Authors:
 
                                   * +https://github.com/tpope+
                                   * +https://github.com/hrsh7th+
