@@ -17,8 +17,12 @@
 
                               - `:q` to quit with no changes or `:q!` to quit and discard changes
 
-                                -Save changes to "<filename>"?-
-                                -[Y]es, (N)o, (C)ancel-
+                                + Traditional *VIM*:
+                                  `E37: No write since last change (add ! to override)`
+
+                                + *Neovim*:
+                                  -Save changes to "<filename>"?-
+                                  -[Y]es, (N)o, (C)ancel-
 
                               - `:wq` to write changes and quit
 
